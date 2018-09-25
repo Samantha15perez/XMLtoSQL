@@ -1,1 +1,10 @@
 C:\Users\Cyberadmin\Desktop\XML to SQL\XML to SQL\bin\Debug\XML to SQL.exe.config
+C:\Users\Cyberadmin\Desktop\XMLtoSQL\XML to SQL\XML to SQL\bin\Debug\XML to SQL.exe.config
+C:\Users\Cyberadmin\Desktop\XMLtoSQL\XML to SQL\XML to SQL\obj\Debug\XML to SQL.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\XMLtoSQL\XML to SQL\XML to SQL\obj\Debug\XML_to_SQL.Form1.resources
+C:\Users\Cyberadmin\Desktop\XMLtoSQL\XML to SQL\XML to SQL\obj\Debug\XML_to_SQL.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\XMLtoSQL\XML to SQL\XML to SQL\obj\Debug\XML to SQL.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\XMLtoSQL\XML to SQL\XML to SQL\bin\Debug\XML to SQL.exe
+C:\Users\Cyberadmin\Desktop\XMLtoSQL\XML to SQL\XML to SQL\bin\Debug\XML to SQL.pdb
+C:\Users\Cyberadmin\Desktop\XMLtoSQL\XML to SQL\XML to SQL\obj\Debug\XML to SQL.exe
+C:\Users\Cyberadmin\Desktop\XMLtoSQL\XML to SQL\XML to SQL\obj\Debug\XML to SQL.pdb
